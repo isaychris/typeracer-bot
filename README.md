@@ -1,7 +1,8 @@
 # typeracer-bot
-typeracer bot powered by selenium.
+typeracer bot powered by selenium
+![Image](https://i.imgur.com/qwkgeiD.png)
 
-# Requirements
+### Requirements
 * selenium
 * firefox 
 * [gecko webdriver v0.20.1](https://github.com/mozilla/geckodriver/releases/tag/v0.20.1)
