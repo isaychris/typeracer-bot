@@ -1,6 +1,7 @@
 # typeracer-bot
-typeracer bot powered by selenium
-![Image](https://i.imgur.com/qwkgeiD.png)
+typeracer bot powered by selenium  
+
+![Image](https://i.imgur.com/qwkgeiD.png)  
 
 ### Requirements
 * selenium
